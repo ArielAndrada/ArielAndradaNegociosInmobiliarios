@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ariel Andrada - Agente Inmobiliario</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ariel Andrada - Agente Inmobiliario</h1>
+    </header>
+    <div class="container">
+        <h2>Bienvenido a mi página web personal</h2>
+        <p>¡Hola! Soy Ariel Andrada, un agente inmobiliario comprometido a ayudarte a encontrar la propiedad perfecta para ti. Con años de experiencia en el mercado inmobiliario, estoy aquí para hacer que tu experiencia de compra o venta sea lo más fluida y exitosa posible.</p>
+        <h3>Servicios que ofrezco:</h3>
+        <ul>
+            <li>Compra y venta de propiedades residenciales y comerciales.</li>
+            <li>Asesoramiento personalizado para encontrar la propiedad que se ajuste a tus necesidades y presupuesto.</li>
+            <li>Valuación precisa de propiedades.</li>
+            <li>Negociación experta para obtener el mejor trato para ti.</li>
+        </ul>
+        <p>No dudes en contactarme para comenzar tu viaje hacia la propiedad de tus sueños.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Ariel Andrada - Agente Inmobiliario</p>
+    </footer>
+</body>
+</html>
